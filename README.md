@@ -1,6 +1,9 @@
 # FoodDonation Backend (Fastify + MongoDB)
 
-A production-ready REST & WebSocket API built with Node.js and Fastify, designed specifically for the FoodDonation Flutter app.
+A production-ready REST & WebSocket API built with Node.js and Fastify.
+
+- **Frontend Repository**: [devikavinod224/FoodDonationApp](https://github.com/devikavinod224/FoodDonationApp)
+- **App Name**: Food Donation
 
 ## 🚀 Features
 
